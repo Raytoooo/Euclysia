@@ -1,0 +1,27 @@
+{
+  "name": "euclysia",
+  "version": "1.0.0",
+  "description": "Bot de gestion du serveur.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayto",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/discord-invites-tracker": "^1.1.0",
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "captcha-canvas": "^3.1.0",
+    "discord-api-types": "^0.34.0",
+    "discord-canvas": "^1.4.1",
+    "discord-canvas-easy": "^3.0.1",
+    "discord-html-transcripts": "^2.5.8",
+    "discord.js": "^13.8.1",
+    "discord.js-buttons": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "util": "^0.12.4"
+  }
+}
